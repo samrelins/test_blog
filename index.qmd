@@ -2,7 +2,9 @@
 title: "Test_blog"
 ---
 
-This is my business Goose:
+This is my business goose:
 
-![business goose](images/business_goose.jpg)
+![business goose (she's the best)](images/business_goose.jpg)
+
+I love her so much.
 
