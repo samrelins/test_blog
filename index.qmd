@@ -2,6 +2,7 @@
 title: "Test_blog"
 ---
 
-This is a Quarto website.
+This is my business Goose:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![business goose](images/business_goose.jpg)
+
