@@ -1,5 +1,5 @@
 ---
-title: "Test_blog"
+title: "Goose Goose Goose!"
 ---
 
 This is my business goose:
