@@ -1,10 +1,9 @@
 ---
-title: "Goose Goose Goose!"
+title: "Blog Blog Blog!"
 ---
 
-This is my business goose:
+This is my blog
 
-![business goose (she's the best)](images/business_goose.jpg)
+Great blog eh? The best. Never been a better blog.
 
-I love her so much.
 
